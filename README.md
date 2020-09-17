@@ -1,4 +1,4 @@
- Window > Preferences > Java > Editor > Content Assist > Favorites
+ Window > Preferences > Java > Editor > Content Assist > Favorites .
 org.junit.Assert
 org.mockito.BDDMockito
 org.mockito.Mockito
