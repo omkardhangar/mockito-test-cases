@@ -11,3 +11,8 @@ org.hamcrest.CoreMatchers
 - Patterns - [http://xunitpatterns.com](http://xunitpatterns.com)
 - [https://github.com/mockito/mockito/wiki/How-to-write-good-tests] 
 - [https://github.com/mockito/mockito/wiki/How-to-write-good-tests] 
+
+
+MIT License
+
+Copyright (c) 2020 Omkar Dhangar
